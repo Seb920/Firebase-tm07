@@ -1,0 +1,6 @@
+[submodule "ACTIVIDADES"]
+	path = ACTIVIDADES
+	url = https://github.com/Seb920/ACTIVIDAD-FIREBASE.git
+[submodule "EJERCICIOS"]
+	path = EJERCICIOS
+	url = https://github.com/Seb920/EJERCICIOS-FIREBASE.git
